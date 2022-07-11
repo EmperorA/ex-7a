@@ -1,0 +1,33 @@
+.header{
+    background-color: aquamarine;
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    
+}
+p{
+    margin-left: 1rem
+}
+.content{
+    height: 20rem;
+    display: flex;
+}
+.nav{
+    background-color: chocolate;
+    
+    width: 10rem;
+     
+}
+.article{
+    background-color: rgb(229, 186, 113);
+width: 30rem;
+}
+.aside{
+    background-color: rgb(237, 231, 148);
+    display: flex;
+    flex: 0 0 30%;
+}
+.footer{
+    background-color: aqua;
+   display: flex; 
+}
